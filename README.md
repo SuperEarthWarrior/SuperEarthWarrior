@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SuperEarthWarrior
+- 👋 Hi
 - 👀 I’m interested in Invincible, Monster Hunter Wilds, Super Smash Bros Ultimate
 - 🌱 I’m currently learning C++, Python
-- 😄 Pronouns: They/them
 - ⚡ Fun fact: I have over 2.5k hours in Terraria
